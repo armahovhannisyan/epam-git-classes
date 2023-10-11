@@ -1,3 +1,6 @@
 
 Making changes to the file
 Changes made in github gui
+
+This line was added from new-branch2
+new line
